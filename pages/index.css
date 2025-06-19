@@ -149,6 +149,18 @@ font-size: 20px;
 line-height: 30px;
 }
 
+.reservation {
+  background-color: #D9E7FF;
+  background-image: url(images/background_reservation.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.form__checkbox{
+  border-radius: 2px;
+  cursor: pointer;
+}
 
 .footer {
   padding: 60px 80px;
