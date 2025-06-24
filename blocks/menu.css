@@ -14,7 +14,7 @@
   max-width: 780px;
   margin: 0 auto;
   text-align: center;
-  font-family: "Inter";
+  font-family: "Inter" "Times New Roman", Times, serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -26,7 +26,7 @@
   padding-top: 24px;
   margin: 0 auto;
   text-align: center;
-  font-family: "Noto Serif";
+  font-family: "Noto Serif" "Times New Roman", Times, serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -34,21 +34,10 @@
 }
 
 .menu__cards {
+  margin-top: 100px;
   display: flex;
-  flex-direction: column;
   align-items: center;
   gap: 100px;
-  padding-top: 100px;
-  padding-bottom: 100px;
-}
-
-.menu__cards > div:first-child {
-  display: flex;
-  justify-content: center;
-  gap: 100px;
-}
-
-.menu__cards > div:last-child {
-  display: flex;
+  flex-wrap: wrap;
   justify-content: center;
 }

@@ -22,7 +22,7 @@
   margin-top: 24px;
   margin-left: 80px;
   margin-bottom: 80px;
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", "Times New Roman", Times, serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -41,6 +41,7 @@
 .recipes__iframe {
   width: 489px;
   height: 273px;
+  border: 0px;
 }
 
 .recipes__video-caption {
