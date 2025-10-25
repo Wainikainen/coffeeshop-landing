@@ -1,6 +1,6 @@
 # Triple Peaks Coffee Shop
 
-This is the second project of the fulltime Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
+Simple coffee shop landing page that includes specific sections for the company and an interactive footer. This is the second project I created using HTML and CSS, based on the design brief.
 
 ## Project features
 
